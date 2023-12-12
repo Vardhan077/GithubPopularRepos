@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GithubPopularRepos/static/css/main.91efbf7d.css",
+    "main.js": "/GithubPopularRepos/static/js/main.9258d261.js",
+    "static/js/787.b4cdced7.chunk.js": "/GithubPopularRepos/static/js/787.b4cdced7.chunk.js",
+    "index.html": "/GithubPopularRepos/index.html",
+    "main.91efbf7d.css.map": "/GithubPopularRepos/static/css/main.91efbf7d.css.map",
+    "main.9258d261.js.map": "/GithubPopularRepos/static/js/main.9258d261.js.map",
+    "787.b4cdced7.chunk.js.map": "/GithubPopularRepos/static/js/787.b4cdced7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91efbf7d.css",
+    "static/js/main.9258d261.js"
+  ]
+}
